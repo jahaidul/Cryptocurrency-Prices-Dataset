@@ -3,7 +3,7 @@ The Cryptocurrency Prices dataset includes prices and market capitalization data
 
 The dataset is well-suited for exploratory data analysis, time series analysis, and predictive modeling tasks related to cryptocurrencies. It can be used to examine historical price trends, correlations between different cryptocurrencies, and the overall market capitalization of the cryptocurrency market. Additionally, the data can be used to build models that predict future prices or market capitalization> of specific cryptocurrencies.
 
-##Each row of the dataset represents a single day of trading for a particular cryptocurrency. The columns of the dataset include the following:
+## Each row of the dataset represents a single day of trading for a particular cryptocurrency. The columns of the dataset include the following:
 
 - Cryptocurrency Name
 - Open Price: the opening price of the cryptocurrency on the trading day
@@ -21,3 +21,6 @@ This dataset can be helpful for data analysts, data scientists, traders, investo
 - Requests
 - Json
 - Pandas
+
+## View
+![Dataset](https://github.com/jahaidul/Cryptocurrency-Prices-Dataset/blob/main/Dataset%20view.jpg)
